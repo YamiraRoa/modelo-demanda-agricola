@@ -4,3 +4,4 @@ seaborn==0.13.1
 matplotlib==3.7.1
 pmdarima===2.0.4
 statsmodels==0.14.2
+ipykernel==6.29.5
